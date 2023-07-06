@@ -1,5 +1,17 @@
-html{
+body{
 background-color: darkred;
+position: absolute;
+
+
+}
+
+h1{
+padding-left: 4%;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: white;
+font-style: normal;
+font-size: 530%;
+
 
 
 }
