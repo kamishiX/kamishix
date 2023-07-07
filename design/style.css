@@ -6,7 +6,7 @@ text-align: center;
 
 }
 
-.navbar ul li{
+.navbar ul li a{
         text-decoration: none;
         text-transform: uppercase;       
 }
