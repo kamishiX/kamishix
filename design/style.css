@@ -25,6 +25,7 @@ text-align: center;
         list-style: none;
         display: inline-block;
         margin: 0 20px;
+        position: relative;
        
 }
 
@@ -32,4 +33,20 @@ text-align: center;
         text-decoration: none;
         text-transform: uppercase;       
         color: #fff;
+}
+
+
+.navbar ul li::after{
+    content: '';
+    height: 3px;
+    width: 0%;
+    background: rgb(17, 47, 71);
+    position: absolute;
+    left: 0;
+    bottom: -10;
+    transition: 0.5s;
+}
+
+.navbar ul li:hover::after{
+    width: 100%;
 }
