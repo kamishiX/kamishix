@@ -1,16 +1,10 @@
-### Hi there 👋
+# 👋 Hello! I'm Kamishi_X.
 
-<!--
-**kamishiX/kamishix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I program in `Python, and HTML, CSS.
 
-Here are some ideas to get you started:
+### I like programming, and sports.
 
-- 🔭 I’m currently working on A discord bot called Reemo!
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on discord bots
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm currently working on <h3>Reemo Bot, a bot that will have many features.</h3>
+
+
+[![Kamishi_X's GitHub stats.](https://github-readme-stats.vercel.app/api?username=KamishiX&show_icons=true&theme=radical)](https://github.com/KamishiX/)
