@@ -58,7 +58,37 @@ body{
 
 
 
+    .bot ul li{
+        list-style: none;
+        display: inline-block;
+        margin: 0 20px;
+        position: relative;
+    }
+
+
+
+
+
+    
 .bot ul li a{
     text-decoration: none;
     color: #fff;
 }
+
+
+
+.bot ul li::after{
+    content: '';
+    height: 3px;
+    width: 0%;
+    background: rgb(17, 47, 71);
+    position: absolute;
+    left: 0;
+    bottom: -10;
+    transition: 0.5s;
+}
+
+.bot ul li:hover::after{
+    width: 100%;
+}
+
