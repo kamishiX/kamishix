@@ -5,3 +5,8 @@ font-family: "Lucida Console", monospace;
 text-align: center;
 
 }
+
+.navbar ul li{
+        text-decoration: none;
+        text-transform: uppercase;       
+}
