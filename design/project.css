@@ -55,3 +55,9 @@ body{
     .navbar ul li:hover::after{
         width: 100%;
     }
+
+
+
+.bot{
+    text-decoration: none;
+}
