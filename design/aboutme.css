@@ -1,20 +1,7 @@
 body{
-    background: linear-gradient(#034aff, #000000);
+    background: linear-gradient(#0084ff, #0e0159);
     margin-bottom: 0%;
-    
-    
-    
-    }
-    
-    h1{
-    padding-left: 4%;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: white;
-    font-style: normal;
-    font-size: 530%;
-    
-    
+    font-family: "Lucida Console", monospace;
+    text-align: center;
     
     }
-    
-    
