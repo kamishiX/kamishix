@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Kamishi_X.
 
-## I program in `Python, and HTML, CSS.
+## I program in `Python, HTML, and XML.
 
 ### I like programming, and sports.
 
